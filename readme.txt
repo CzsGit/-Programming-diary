@@ -1,1 +1,1 @@
-Delphi7+pascal��д�ļ��±�.
+Delphi7+pascal开发的记事本。
