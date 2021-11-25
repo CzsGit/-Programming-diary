@@ -1,1 +1,1 @@
-Delphi7+pascal开发的记事本。
+Based on Delphi7 and PASCAL development of notepad.
